@@ -38,7 +38,7 @@ The attributes of these cards can be divided into 4 categories:
  
  **4. Image segmention**
  
- **5. Develop the app using Android Studio. **
+ **5. Develop the app using Android Studio.**
  
  
  ## Acknowledgements
