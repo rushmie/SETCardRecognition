@@ -15,6 +15,18 @@ The attributes of these cards can be divided into 4 categories:
  * Pattern: full (F), striped (S), empty (E)
  * Number: one (1), two (2), three (3)
  
+ ## File Directory
+ 
+ 
+ *****add image
+ 
+ ## Stages
+ 
+ 1. Collect the data.
+  - Goal is to get at least 100 images of each card type. In addition, we will add images from Anais Dotis's github. 
+ 2. Start with three cards and create a neural network classifier.
+  - 
+ 
  ## Acknowledgements
 Anais Dotis  
 https://github.com/Anaisdg/OpenCV
