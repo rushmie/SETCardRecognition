@@ -28,6 +28,7 @@ The attributes of these cards can be divided into 4 categories:
  ## Stages
  
  **1. Collect the data.**
+ 
  Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis's and Tom White's githubs to supplement our data. 
  
  **2. Start with three card types and create a neural network classifier.**
@@ -36,7 +37,7 @@ The attributes of these cards can be divided into 4 categories:
  
  **3. Expand to all 81 card types and develop a neural network classifier.**
  
- **4. Image segmention**
+ **4. Image segmentation**
  
  **5. Develop the app using Android Studio.**
  
