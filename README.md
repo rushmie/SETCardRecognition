@@ -1,5 +1,5 @@
 # SET Card Recognition
-Goal: Create a mobile app to take pictures of SET cards and recognize if a set exists in the given cards.
+Goal: Create a mobile app to take pictures of [SET®](https://www.setgame.com/) cards and recognize if a set exists in the given cards.
 
 Using https://medium.com/@dganais/ready-set-image-recognition-720be22d7051 as a starting point, we want to
 explore image recognition strategies to accurately identify SETs in a group of cards.
@@ -21,7 +21,7 @@ The attributes of these cards can be divided into 4 categories:
  
  ## Software
  
- Python
+ Python (version)
  OpenCV (version)  
  Tensorflow (version)  
  
