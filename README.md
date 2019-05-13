@@ -49,6 +49,11 @@ The attributes of these cards can be divided into 4 categories:
  
  **5. Develop the app using Android Studio.**
  
+ ## Team
+ 
+ Rushmie Kulkarni  
+ Jenny Li  
+ Sara Jones   
  
  ## Acknowledgements
 Anais Dotis  
