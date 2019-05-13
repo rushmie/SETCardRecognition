@@ -1,5 +1,5 @@
 # SET Card Recognition
-Create a mobile app to take pictures of [SET®](https://www.setgame.com/) cards and recognize if a set exists in the given cards.
+Create a mobile app that takes a picture of [SET®](https://www.setgame.com/) cards and tells the user if a set exists in the given cards.
 
 Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and Tom White, [tomwhite](https://github.com/tomwhite), we want to explore image recognition strategies and deep learning models to accurately identify SETs in a group of cards.
 
@@ -18,7 +18,7 @@ The attributes of these cards can be divided into 4 categories:
  
  ### Creating the dataset
  
- We took around 100 photos of each SET card with a variety of backgrounds, lighting conditions, rotations, and angles using three different phones.
+ We took around 100 photos of each SET card with a variety of backgrounds, lighting conditions, rotations, and angles using two different phones.
  
  Our data can be found in two folders, *pre-processed* and *processed*.   
  The original images of our cards are stored in *pre-processed*.  
