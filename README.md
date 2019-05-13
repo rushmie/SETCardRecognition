@@ -28,8 +28,9 @@ The attributes of these cards can be divided into 4 categories:
  
  Python (version)  
  OpenCV (version)  
- Tensorflow (version)  
- 
+ Tensorflow (version)
+ PyTorch (version)
+ Android Studio (version) 
  
  ## File Directory
   
@@ -53,7 +54,7 @@ The attributes of these cards can be divided into 4 categories:
  
  Rushmie Kulkarni  
  Jenny Li  
- Sara Jones   
+ Sara Jones  
  
  ## Acknowledgements
 Anais Dotis  
