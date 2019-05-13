@@ -1,5 +1,5 @@
 # SET Card Recognition
-Goal: Create a mobile app to take pictures of SET cards and recognize if a set exists in the given cards
+Goal: Create a mobile app to take pictures of SET cards and recognize if a set exists in the given cards.
 
 Using https://medium.com/@dganais/ready-set-image-recognition-720be22d7051 as a starting point, we want to
 explore image recognition strategies to accurately identify SETs in a group of cards.
@@ -15,12 +15,15 @@ The attributes of these cards can be divided into 4 categories:
  * Pattern: full (F), striped (S), empty (E)
  * Number: one (1), two (2), three (3)
  
- *****add image
+ *****add image, and describe naming scheme
+ 
+ 
  
  ## Software
  
- OpenCV (version)
- Tensorflow (version)
+ Python
+ OpenCV (version)  
+ Tensorflow (version)  
  
  
  ## File Directory
@@ -37,7 +40,7 @@ The attributes of these cards can be divided into 4 categories:
  
  **3. Expand to all 81 card types and develop a neural network classifier.**
  
- **4. Image segmentation**
+ **4. Image detection**
  
  **5. Develop the app using Android Studio.**
  
