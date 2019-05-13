@@ -53,11 +53,11 @@ The attributes of these cards can be divided into 4 categories:
  
  ## Acknowledgements
 Anais Dotis  
-https://github.com/Anaisdg/OpenCV
+https://github.com/Anaisdg/OpenCV  
 Her fantastic Medium article of her project: https://medium.com/@dganais/ready-set-image-recognition-720be22d7051
 
 Tom White
-https://github.com/tomwhite/set-game
+https://github.com/tomwhite/set-game  
 Great blog post of his project: https://blog.cloudera.com/blog/2017/10/understanding-how-deep-learning-learns-to-play-set/
  
 
