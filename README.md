@@ -21,7 +21,7 @@ The attributes of these cards can be divided into 4 categories:
  
  ## Software
  
- Python (version)
+ Python (version)  
  OpenCV (version)  
  Tensorflow (version)  
  
@@ -48,5 +48,9 @@ The attributes of these cards can be divided into 4 categories:
  ## Acknowledgements
 Anais Dotis  
 https://github.com/Anaisdg/OpenCV
+
+Tom White
+https://github.com/tomwhite/set-game
+
  
 
