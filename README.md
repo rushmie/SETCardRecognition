@@ -1,8 +1,7 @@
 # SET Card Recognition
-Goal: Create a mobile app to take pictures of [SET®](https://www.setgame.com/) cards and recognize if a set exists in the given cards.
+Create a mobile app to take pictures of [SET®](https://www.setgame.com/) cards and recognize if a set exists in the given cards.
 
-Using https://medium.com/@dganais/ready-set-image-recognition-720be22d7051 as a starting point, we want to
-explore image recognition strategies and deep learning models to accurately identify SETs in a group of cards.
+Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and Tom White, [tomwhite](https://github.com/tomwhite), we want to explore image recognition strategies and deep learning models to accurately identify SETs in a group of cards.
 
 ## Data
 
