@@ -49,7 +49,7 @@ The attributes of these cards can be divided into 4 categories:
  
  **3. Expand to all 81 card types and develop a neural network classifier.**
  
- **4. Image detection**
+ **4. Create an image detection model that can detect cards in an image and connects to our neural network classifier.**
  
  **5. Write up code for SET game rules.**
  
