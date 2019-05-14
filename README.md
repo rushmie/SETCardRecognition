@@ -37,7 +37,9 @@ The attributes of these cards can be divided into 4 categories:
  
  ## File Directory
   
- ## Stages
+ ## Plan
+ 
+ These are the main tasks we need to complete for developing our app:
  
  **1. Collect the data.**
  
