@@ -3,6 +3,36 @@ Create a mobile app that takes a picture of [SET®](https://www.setgame.com/) ca
 
 Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and Tom White, [tomwhite](https://github.com/tomwhite), we want to explore image recognition strategies and deep learning models to accurately identify SETs in a group of cards.
 
+ ## Plan
+ 
+ These are the main tasks we need to complete for developing our app:
+ 
+ **1. Collect the data.**
+ 
+ Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis's and Tom White's githubs to supplement our data. 
+ 
+ **2. Start with three card types and create a neural network classifier.**
+ 
+ Goal is to learn how to do image processing and create a convolutional neural network that can accurately classify three cards. 
+ 
+ **3. Expand to all 81 card types and develop a neural network classifier.**
+ 
+ **4. Create an image detection model that can detect cards in an image and connects to our neural network classifier.**
+ 
+ **5. Write up code for SET game rules.**
+ 
+ **6. Develop the app using Android Studio.**
+ 
+ ## Software
+ 
+ Python (version)  
+ OpenCV (version)  
+ Tensorflow (version)  
+ PyTorch (version)  
+ Android Studio (version) 
+ 
+## File Directory 
+
 ## Data
 
 There are 81 distinct SET cards. 
@@ -26,36 +56,7 @@ The attributes of these cards can be divided into 4 categories:
  Our data can be found in *training_data* in two folders, *pre-processed* and *processed*.   
  The original images of our cards are stored in *pre-processed*.  
  We resized our images to *size by size* pixels using *OpenCV* and placed them in *processed*.
- 
- ## Software
- 
- Python (version)  
- OpenCV (version)  
- Tensorflow (version)  
- PyTorch (version)  
- Android Studio (version) 
- 
- ## File Directory
-  
- ## Plan
- 
- These are the main tasks we need to complete for developing our app:
- 
- **1. Collect the data.**
- 
- Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis's and Tom White's githubs to supplement our data. 
- 
- **2. Start with three card types and create a neural network classifier.**
- 
- Goal is to learn how to do image processing and create a convolutional neural network that can accurately classify three cards. 
- 
- **3. Expand to all 81 card types and develop a neural network classifier.**
- 
- **4. Create an image detection model that can detect cards in an image and connects to our neural network classifier.**
- 
- **5. Write up code for SET game rules.**
- 
- **6. Develop the app using Android Studio.**
+
  
  ## Team
  
