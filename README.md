@@ -5,7 +5,7 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
 
  ## Plan
  
- These are the main tasks we need to complete for developing our app:
+ These are the main tasks we want to accomplish for developing our app:
  
  **1. Collect the data.**
  
