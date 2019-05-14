@@ -48,7 +48,9 @@ The attributes of these cards can be divided into 4 categories:
  
  **4. Image detection**
  
- **5. Develop the app using Android Studio.**
+ **5. Write up code for rules of SET. **
+ 
+ **6. Develop the app using Android Studio.**
  
  ## Team
  
