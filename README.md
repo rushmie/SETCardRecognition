@@ -20,7 +20,7 @@ The attributes of these cards can be divided into 4 categories:
  
  We took around 100 photos of each SET card with a variety of backgrounds, lighting conditions, rotations, and angles using two different phones.
  
- Our data can be found in two folders, *pre-processed* and *processed*.   
+ Our data can be found in *training_data* in two folders, *pre-processed* and *processed*.   
  The original images of our cards are stored in *pre-processed*.  
  We resized our images to *size by size* pixels using *OpenCV* and placed them in *processed*.
  
