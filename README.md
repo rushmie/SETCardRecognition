@@ -9,7 +9,7 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  
  **1. Collect the data.**
  
- Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis's and Tom White's githubs to supplement our data. 
+ Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis' and Tom White's githubs to supplement our data. 
  
  **2. Start with three card types and create a neural network classifier.**
  
