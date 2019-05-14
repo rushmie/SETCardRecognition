@@ -11,12 +11,15 @@ The attributes of these cards can be divided into 4 categories:
 
  * Shapes: diamond (D), oval (O), squiggle (S)
  * Color: red (R), green (G), purple (P)
- * Pattern: full (F), striped (S), empty (E)
+ * Pattern: full (F), lined (L), empty (E)
  * Number: one (1), two (2), three (3)
  
- *****add image, and describe naming scheme
+ The naming scheme we used to capture these 4 attributes is the following:
+ Number Shape Color Pattern  
+ For example, the following image would be *name*, which is short for *long name* 
+ *****add image
  
- ### Creating the dataset
+ ### Creating the dataset for our neural network classifier
  
  We took around 100 photos of each SET card with a variety of backgrounds, lighting conditions, rotations, and angles using two different phones.
  
