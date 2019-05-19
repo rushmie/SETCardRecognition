@@ -9,7 +9,7 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  
  **1. Collect the data.**
  
- Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis' and Tom White's githubs to supplement our data. 
+ Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis' and Tom White's githubs to supplement our data and use for testing. 
  
  **2. Start with three card types and create a neural network classifier.**
  
@@ -22,6 +22,8 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  **5. Write up code for SET game rules.**
  
  **6. Develop the app using Android Studio.**
+ 
+ **7. Logo design.**
  
  ## Software
  
@@ -53,10 +55,7 @@ The attributes of these cards can be divided into 4 categories:
  
  We took around 100 photos of each SET card with a variety of backgrounds, lighting conditions, rotations, and angles using two different phones.
  
- Our data can be found in *training_data* in two folders, *pre-processed* and *processed*.   
- The original images of our cards are stored in *pre-processed*.  
- We resized our images to *size by size* pixels using *OpenCV* and placed them in *processed*.
-
+ Our data can be found in *training_data*.
  
  ## Team
  
