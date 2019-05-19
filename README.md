@@ -13,10 +13,11 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  
  **2. Start with three card types and create a neural network classifier.**
  
- Goal is to learn how to do image processing and create a convolutional neural network that can classify three cards with an accuracy of at least 95%. 
+ Goal is to learn how to do image processing and create a convolutional neural network (CNN) that can classify three cards with an accuracy of at least 95%. 
  
  **3. Expand to all 81 card types and develop a neural network classifier.**
  
+ Goal is to first apply Tom White's CNN model to our data to see if we can also achieve 99% accuracy. We may also explore other model  architectures that include pre-trained models like VGG19. 
  
  **4. Create an image detection model that can detect cards in an image and connects to our neural network classifier.**
  
