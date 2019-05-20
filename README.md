@@ -55,7 +55,7 @@ The attributes of these cards can be divided into 4 categories:
  
  For example, the following image would be __1ORF__, which is short for __one oval red full__.
  
-  <img src="https://github.com/rushmie/SETCardRecognition/blob/master/training_data/1ORF/IMG_20190515_123747464.jpg" width="100" height="100">
+  <img src="https://github.com/rushmie/SETCardRecognition/blob/master/data/training_data/1ORF/IMG_20190515_123747464.jpg" width="100" height="100">
  
  ### Creating the dataset for our neural network classifier
  
