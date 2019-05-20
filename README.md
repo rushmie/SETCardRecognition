@@ -15,7 +15,7 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  <img src="https://github.com/rushmie/SETCardRecognition/blob/master/check_mark.png" width="30" height="30">
  
  
- Goal is to learn how to do image processing and create a convolutional neural network (CNN) that can classify three cards with an accuracy of at least 95%. 
+ Goal is to learn how to do image processing and create a convolutional neural network (CNN) that can classify three cards with an accuracy of at least 90%. 
  
  **3. Expand to all 81 card types and develop a neural network classifier.**
  
