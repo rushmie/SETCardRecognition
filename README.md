@@ -36,8 +36,6 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  Tensorflow (version)  
  PyTorch (version)  
  Android Studio (version) 
- 
-## File Directory 
 
 ## Data
 
