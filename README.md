@@ -11,9 +11,11 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  
  Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis' and Tom White's githubs to supplement our data and use for testing. 
  
- **2. Start with three card types and create a neural network classifier.**
+ **2. Start with three card types and create a neural network classifier.** 
+ <img src="https://github.com/rushmie/SETCardRecognition/blob/master/check_mark.png" width="30" height="30">
  
- Goal is to learn how to do image processing and create a convolutional neural network (CNN) that can classify three cards with an accuracy of at least 95%. 
+ 
+ Goal is to learn how to do image processing and create a convolutional neural network (CNN) that can classify three cards with an accuracy of at least 90%. 
  
  **3. Expand to all 81 card types and develop a neural network classifier.**
  
@@ -49,13 +51,15 @@ The attributes of these cards can be divided into 4 categories:
  * Number: one (1), two (2), three (3)
  
  The naming scheme we used to capture these 4 attributes is the following:
- Number Shape Color Pattern  
- For example, the following image would be *name*, which is short for *long name* 
- *****add image
+ Number Shape Color Pattern.  
+ 
+ For example, the following image would be __1ORF__, which is short for __one oval red full__.
+ 
+  <img src="https://github.com/rushmie/SETCardRecognition/blob/master/training_data/1ORF/IMG_20190515_123747464.jpg" width="100" height="100">
  
  ### Creating the dataset for our neural network classifier
  
- We took around 100 photos of each SET card with a variety of backgrounds, lighting conditions, rotations, and angles using two different phones.
+ We took at least 100 photos of each SET card with a variety of backgrounds, lighting conditions, rotations, and angles using two different phones.
  
  Our data can be found in *training_data*.
  
