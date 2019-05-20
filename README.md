@@ -61,7 +61,17 @@ The attributes of these cards can be divided into 4 categories:
  
  We took at least 100 photos of each SET card with a variety of backgrounds, lighting conditions, rotations, and angles using two different phones.
  
- Our data can be found in *training_data*.
+ Our data can be found in *data/training_data*.
+ 
+ ## Creating Neural Network Classifier
+ 
+ ### CNN for 3 Classes
+ 
+We first wanted to get practice creating convolutional neural networks and processing images. Using PyTorch, we were able to get 93% accuracy on our test set with our model. The data that we used can be found in *data/practice_set*.
+
+Here's our analysis:   
+http://htmlpreview.github.io/?https://github.com/rushmie/SETCardRecognition/blob/master/jupyter_notebooks/CNN_practice_3_classes.html
+ 
  
  ## Team
  
