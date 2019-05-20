@@ -11,7 +11,7 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  
  Goal is to get at least 100 images for each card type. In addition, we will add images from Anais Dotis' and Tom White's githubs to supplement our data and use for testing. 
  
- **2. Start with three card types and create a neural network classifier.** ![](https://github.com/rushmie/SETCardRecognition/blob/master/check_mark.pngs=100)
+ **2. Start with three card types and create a neural network classifier.** ![](https://github.com/rushmie/SETCardRecognition/blob/master/check_mark.png s=100)
  
  Goal is to learn how to do image processing and create a convolutional neural network (CNN) that can classify three cards with an accuracy of at least 95%. 
  
