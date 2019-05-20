@@ -51,9 +51,9 @@ The attributes of these cards can be divided into 4 categories:
  * Number: one (1), two (2), three (3)
  
  The naming scheme we used to capture these 4 attributes is the following:
- Number Shape Color Pattern  
+ Number Shape Color Pattern.  
  
- For example, the following image would be "1ORF", which is short for "one oval red full".
+ For example, the following image would be __1ORF__, which is short for __one oval red full__.
  
   <img src="https://github.com/rushmie/SETCardRecognition/blob/master/training_data/1ORF/IMG_20190515_123747464.jpg" width="100" height="100">
  
