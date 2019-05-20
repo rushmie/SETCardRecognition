@@ -69,7 +69,7 @@ The attributes of these cards can be divided into 4 categories:
  
 We first wanted to get practice creating convolutional neural networks and processing images. Using PyTorch, we were able to get 93% accuracy on our test set with our model. The data that we used can be found in *data/practice_set*.
 
-Here's our analysis: 
+Here's our analysis:   
 http://htmlpreview.github.io/?https://github.com/rushmie/SETCardRecognition/blob/master/jupyter_notebooks/CNN_practice_3_classes.html
  
  
