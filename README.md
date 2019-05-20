@@ -53,7 +53,7 @@ The attributes of these cards can be divided into 4 categories:
  The naming scheme we used to capture these 4 attributes is the following:
  Number Shape Color Pattern  
  For example, the following image would be *name*, which is short for *long name* 
-  <img src="https://github.com/rushmie/SETCardRecognition/blob/master/check_mark.png" width="30" height="30">
+  <img src="https://github.com/rushmie/SETCardRecognition/blob/master/training_data/1ORF/IMG_20190515_123747464.jpg" width="100" height="100">
  
  ### Creating the dataset for our neural network classifier
  
