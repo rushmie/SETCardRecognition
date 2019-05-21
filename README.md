@@ -25,9 +25,13 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  
  **5. Write up code for SET game rules.**
  
- **6. Develop the app using Android Studio.**
+ **6. Develop the app using Android Studio.**  
+  * First prototype will take an image that the user uploads into the app.  
+  * Second prototype will use phone's camera to detect SETs in real time. 
  
- **7. Logo design.**
+ **7. Logo design and name the app.**
+ 
+ ## File Directory
  
  ## Software
  
