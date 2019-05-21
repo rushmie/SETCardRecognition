@@ -43,13 +43,13 @@ There are 81 distinct SET cards.
 
 The attributes of these cards can be divided into 4 categories:
 
- * Shapes: diamond (D), oval (O), squiggle (S)
+ * Shape: diamond (D), oval (O), squiggle (S)
  * Color: red (R), green (G), purple (P)
- * Pattern: full (F), lined (L), empty (E)
+ * Shading: full (F), lined (L), empty (E)
  * Number: one (1), two (2), three (3)
  
  The naming scheme we used to capture these 4 attributes is the following:
- Number Shape Color Pattern.  
+ Number Shape Color Shading.  
  
  For example, the following image would be __1ORF__, which is short for __one oval red full__.
  
