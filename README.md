@@ -35,7 +35,7 @@ Using inspiration from Anais Dotois, [Anaisdg](https://github.com/Anaisdg), and 
  
  ## Software
  
- Python 3.7.3
+ Python 3.7.3  
  OpenCV (version)  
  Tensorflow (version)  
  PyTorch (version)  
