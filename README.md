@@ -43,10 +43,10 @@ There are 81 distinct SET cards.
 
 The attributes of these cards can be divided into 4 categories:
 
+ * Number: one (1), two (2), three (3)
  * Shapes: diamond (D), oval (O), squiggle (S)
  * Color: red (R), green (G), purple (P)
  * Pattern: full (F), lined (L), empty (E)
- * Number: one (1), two (2), three (3)
  
  The naming scheme we used to capture these 4 attributes is the following:
  Number Shape Color Pattern  
